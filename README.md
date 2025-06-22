@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a code-loving wizard from Punjab, currently brewing up knowledge at IKGPTU. My passions include web development, turning bugs into features, jamming to music, saving the planet (one recycled soda can at a time), and mastering the art of RRR (Reduce, Reuse, Rage when code doesn’t run). 
+
+Ready to debug life, one line at a time!
+
